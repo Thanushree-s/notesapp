@@ -3,7 +3,7 @@
   display: flex;
   gap: 20px;
   padding: 40px;
-  background-color: blue;
+  background-color: lightblue;
 }
 
 .custom-scroll::-webkit-scrollbar {
