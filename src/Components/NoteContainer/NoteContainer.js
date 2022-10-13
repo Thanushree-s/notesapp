@@ -31,7 +31,7 @@ function NoteContainer(props) {
             />
           ))
         ) : (
-          <h3>No Notes present</h3>
+          <h3>No Notes added</h3>
         )}
       </div>
     </div>
